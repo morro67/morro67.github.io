@@ -1,0 +1,2 @@
+(this["webpackJsonpvk-mi-app"]=this["webpackJsonpvk-mi-app"]||[]).push([[0],{60:function(p,s,t){p.exports=t(61)},61:function(p,s,t){"use strict";t.r(s);t(62),t(89),t(91),t(92),t(94),t(95),t(96),t(97),t(98),t(99),t(100),t(101),t(103),t(104),t(105),t(106),t(107),t(108),t(109),t(110),t(111),t(112),t(114),t(115),t(116),t(117),t(118),t(119),t(120),t(121),t(122),t(123),t(124),t(125),t(126),t(127),t(128),t(129),t(130),t(131);var e=t(36),i=t.n(e);i.a.send("VKWebAppInit"),i.a.send("VKWebAppSetSwipeSettings",{history:!0})}},[[60,1,2]]]);
+//# sourceMappingURL=main.1f5512c4.chunk.js.map
